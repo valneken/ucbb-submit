@@ -45,6 +45,7 @@
             "styles": [
               "node_modules\\@dynatrace\\barista-fonts\\typography.scss",
               "node_modules\\@dynatrace\\barista-components\\style\\main.scss",
+              "node_modules/@dynatrace/barista-components/style/index.scss",
               "src/styles.css"
             ],
             "scripts": []
